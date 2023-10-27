@@ -4,7 +4,7 @@ Dieses GitHub-Repository enthält meine Masterarbeit und die zugehörigen Python
 
 **Verfasser:** Büsra Karaoglan  
 **Akademischer Grad:** Master of Science  
-**Abgabedatum:** 16. September 2020
+**Abgabedatum:** 16. September 2020   
 **Referent:** Prof. Dr. Martin  
 **Korreferentin:** Prof. Dr. Lange
 
